@@ -1,0 +1,4 @@
+Bug ID,Title,Status,Pre-conditions,Steps to reproduce,Expected Result,Actual Result,Severity,Priority
+BUG_001,Transfer accomplished with zero amount,New,User is logged in,1.Open Transfer Funds;2.Select accounts;3.Enter 0;4.Click Transfer button,Transfer denied and error message displays,Transfer successfully completed,Medium,High
+BUG_002,Transfer accomplished with negative amount,New,User is logged in,1.Open Transfer Funds;2.Select accounts;3.Enter -50;4.Click Transfer button,Transfer denied and error message shows up,Transfer successfully completed,Medium,High
+
