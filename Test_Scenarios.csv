@@ -1,11 +1,11 @@
-Scenario ID,Module,Test Scenario,Priority,Type,Status
-TS_001,Login,Verify user can login with valid credentials,High,Functional,Not Executed
-TS_002,Login,Verify login fails with invalid credentials,High,Negative,Not Executed
-TS_003,Register,Verify user can register new account,High,Functional,Not Executed
-TS_004,Accounts,Verify account overview displays balances,High,Functional,Not Executed
-TS_005,Transfer Funds,Verify user can transfer money between accounts,High,Functional,Not Executed
-TS_006,Bill Pay,Verify user can submit bill payment,High,Functional,Not Executed
-TS_007,Profile,Verify user can update contact information,Medium,Functional,Not Executed
-TS_008,Transactions,Verify transaction history is displayed,Medium,Functional,Not Executed
-TS_009,Logout,Verify user can logout successfully,Medium,Functional,Not Executed
-TS_010,Validation,Verify required fields show validation messages,High,Validation,Not 
+Scenario ID,Test Scenario,Priority,Type,Status
+TS_001,Verify user can login with valid credentials,High,Functional,Not Executed
+TS_002,Verify login fails with invalid credentials,High,Negative,Not Executed
+TS_003,Verify user can register new account,High,Functional,Not Executed
+TS_004,Verify account overview displays balances,High,Functional,Not Executed
+TS_005,Verify user can transfer money between accounts,High,Functional,Not Executed
+TS_006,Verify user can submit bill payment,High,Functional,Not Executed
+TS_007,Verify user can update contact information,Medium,Functional,Not Executed
+TS_008,Verify transaction history is displayed,Medium,Functional,Not Executed
+TS_009,Verify user can logout successfully,Medium,Functional,Not Executed
+TS_010,Verify required fields show validation messages,High,Validation,Not Executed
