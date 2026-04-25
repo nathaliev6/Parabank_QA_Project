@@ -77,4 +77,4 @@ Short test planning document describing scope and testing approach.
 
 ## Author
 
-Created as part of personal QA portfolio development and interview preparation.
+Created as part of personal QA portfolio development
